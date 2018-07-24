@@ -1,0 +1,11 @@
+//
+// For using as an extension for zion instances
+//
+
+/*=include jquery.mb.ytplayer/src/css/jquery.mb.YTPlayer.css */
+// Hiding the ugly control
+.background:not(.showYTControls){
+  .mb_YTPBar{
+    display: none !important;
+  }
+}

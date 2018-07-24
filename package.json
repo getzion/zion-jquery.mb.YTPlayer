@@ -1,0 +1,29 @@
+{
+  "name": "zion-ytplayer",
+  "version": "1.0.0",
+  "description": "Use Yutube videos as background",
+  "main": "index.js",
+  "dependencies": {
+    "jquery.mb.ytplayer": "^3.1.5",
+    "zion-core": "^6.0.0-alpha"
+  },
+  "devDependencies": {},
+  "mainfiles": {
+    "jquery": [
+      "/dist/jquery.min.js"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getzion/zion-YTPlayer.git"
+  },
+  "author": "Ashraful Islam Prium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getzion/zion-YTPlayer/issues"
+  },
+  "homepage": "https://github.com/getzion/zion-YTPlayer#readme"
+}
